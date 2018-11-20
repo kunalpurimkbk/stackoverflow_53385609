@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: https://stackoverflow.com/questions/53383907/ite
+ xt7-dont-work-when-i-use-css3-function-target-counter-in-property-con
+ tent
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SHIVA
+Implementation-Vendor-Id: com.stackoverflow
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/question1
+Created-By: Maven Integration for Eclipse
+
